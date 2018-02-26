@@ -14,4 +14,4 @@ CREATE TABLE products (
 );
 
 INSERT INTO products (product_name, department_name, price, stock)
-VALUES ('Marble Mug', 'Home Goods', 15, 20), ('Mid-Century Modern Arm Chair', 'Furniture', 333.99, 10), ('Cute Cat Glass Tea Cup', 'Home Goods', 19.99, 100), ('First Aid Kit', 'Dissaster Readiness', 25.50, 20), ('Kid\'s Trampoline', 'Toys', 79.25, 75);
+VALUES ('Marble Mug', 'Home Goods', 15.00, 20), ('Mid-Century Modern Arm Chair', 'Furniture', 333.99, 10), ('Cute Cat Glass Tea Cup', 'Home Goods', 19.99, 100), ('First Aid Kit', 'Dissaster Readiness', 25.50, 20), ('Kid\'s Trampoline', 'Toys', 79.25, 75);
