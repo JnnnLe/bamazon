@@ -4,16 +4,24 @@ Within this application there is one view, customer view. In this view, the cust
 
 After each purchase, the customer is prompted to purchase another item, but if the input of the user is invalid the progrm will quit and must be restarted.
 
-### Getting Started
-1. Clone this repo
-2. Install dependencies: npm i
-3. Run: node customer.js in terminal
+### Prerequisites
+  1. Clone this repo
+  2. Install dependencies: npm i
+  3. Run node customer.js in terminal 
+ ##
+ 
+![Alt Text](https://media.giphy.com/media/oNFez0pILvi2q6crtj/giphy.gif)
 
 ### Built With 
 npm packages: 
   cli-table, inquirer, mysql
 Node.js
 MySQL
+
+## Authors
+
+* **Jennifer Lê** - [bamazon](https://github.com/jnnnle)
+
 
 ### License
 This project is licensed under the MIT License - see the LICENSE.md file for details
