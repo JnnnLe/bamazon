@@ -18,7 +18,7 @@ npm packages:
 Node.js
 MySQL
 
-## Authors
+### Authors
 
 * **Jennifer Lê** - [bamazon](https://github.com/jnnnle)
 
